@@ -1,0 +1,13 @@
+diskutil list
+diskutil info /dev/diskXsY | grep UUID
+ 
+sudo nano /etc/fstab
+UUID=DEVICEUUID none ntfs rw,auto,nobrowse
+Ctrl+X ---> Y ---> return
+sudo nano /etc/fstab
+LABEL=NAME none ntfs rw,auto,nobrowse 
+Ctrl X ---> Y ---> return
+
+
+Eject & Reconnect: Shift+Cmd+G /Volumes 
+
