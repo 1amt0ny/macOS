@@ -1,0 +1,2 @@
+cat /usr/share/calendar/calendar.history
+
