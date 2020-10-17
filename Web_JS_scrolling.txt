@@ -1,0 +1,6 @@
+//Start: 
+scroll=window.setInterval(function(){window.scrollTo(0,document.body.scrollHeight);},1000);
+
+//End: 
+clearInterval(your number here);
+
