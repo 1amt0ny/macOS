@@ -1,0 +1,30 @@
+- emacs 
+- Esc  
+- x 
+5x5
+animate
+blackbox
+bruce
+decipher
+doctor
+dunnet
+fortune
+gamegrid
+gametree
+gomoku
+handwrite
+hanoi
+landmark
+life
+meese
+morse
+mpuz
+pong
+snake
+solitaire
+spook
+studly
+tetris
+yow
+zone
+
